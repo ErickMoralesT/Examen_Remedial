@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>Recursos/bascula.png</file>
+        <file>Recursos/carpeta (1).png</file>
+        <file>Recursos/descarga-directa (1).png</file>
+        <file>Recursos/editar.png</file>
+        <file>Recursos/identificacion.png</file>
+        <file>Recursos/salida.png</file>
+        <file>Recursos/tabla.jpg</file>
+    </qresource>
+</RCC>
